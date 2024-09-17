@@ -1,0 +1,11 @@
+{
+"editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.sortImports": "always",
+        "source.removeUnused.ts": "always"
+    },
+    "[css]": {
+        "editor.suggest.insertMode": "replace"
+    }
+}
